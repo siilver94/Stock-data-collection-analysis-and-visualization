@@ -1,4 +1,4 @@
-# Stoc--data-collection--analysis--and-visualization
+# Stock--data-collection--analysis--and-visualization
 
 portpolio
 
