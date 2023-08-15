@@ -1,6 +1,5 @@
 # 파이썬 증권 데이터 수집과 분석으로 신호와 소음 찾기
 
-<br/>
 
 ![image](https://github.com/siilver94/Stock-data-collection-analysis-and-visualization/assets/57824945/aa8936ba-aeda-4aab-ab08-db0e469b3a8f)
 
